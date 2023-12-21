@@ -31,8 +31,7 @@ Hello world 🌍, I'm **Minh-Man Truong**, an **Information Technology student**
 <code><img height="24" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></code>
 <code><img height="24" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Light.svg"></code>
 <code><img height="24" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg"></code>
-<br />
-<br />
+
 
 ![Man's github stats](https://github-readme-stats.vercel.app/api?username=minhman293&show_icons=true&hide_border=true)
 
