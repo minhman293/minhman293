@@ -12,7 +12,7 @@
 
 Hello world 🌍, I'm **Minh-Man Truong**, an **Information Technology student** 👨‍💻 from Vietnam. Currently, I'm a **Mobile App Developer** 📱 [@GDSC-DUT](https://github.com/dscdut)
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
