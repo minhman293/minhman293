@@ -24,13 +24,13 @@ Hello world 🌍, I'm **Minh-Man Truong**, an **Information Technology student**
 
 **Languages and Tools:**  
 
-<code><img height="38" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Light.svg"></code>
-<code><img height="38" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Light.svg"></code>
-<code><img height="38" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg"></code>
-<code><img height="38" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg"></code>
-<code><img height="38" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></code>
-<code><img height="38" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Light.svg"></code>
-<code><img height="38" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg"></code>
+<code><img height="36" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Light.svg"></code>
+<code><img height="36" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Light.svg"></code>
+<code><img height="36" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg"></code>
+<code><img height="36" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg"></code>
+<code><img height="36" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></code>
+<code><img height="36" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Light.svg"></code>
+<code><img height="36" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg"></code>
 
 
 ![Man's github stats](https://github-readme-stats.vercel.app/api?username=minhman293&show_icons=true&hide_border=true)
