@@ -23,5 +23,3 @@ Hello world 🌍, I'm **Minh-Man Truong**, an **Information Technology student**
 
 
 ![Man's github stats](https://github-readme-stats.vercel.app/api?username=minhman293&show_icons=true&hide_border=true)
-
-⭐️ From [minhman293](https://github.com/minhman293)
