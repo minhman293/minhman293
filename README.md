@@ -1,4 +1,4 @@
-### Hey 👋, I'm Minh-Man
+### Hey 👋
 
 Hello world 🌍, I'm **Minh-Man Truong**, an **Information Technology student** 👨‍💻 from Vietnam. Currently, I'm a **Mobile App Developer** 📱 [@GDSC-DUT](https://github.com/dscdut)
 
@@ -6,7 +6,7 @@ Hello world 🌍, I'm **Minh-Man Truong**, an **Information Technology student**
 
 **Talking about Personal Stuff:**
 
-- 👨🏽‍💻 I’m currently a Mobile App Developer working on Flutter and Android Java;
+- 👨🏽‍💻 I’m a Mobile App Developer working on Flutter and Android Kotlin;
 - 🌱 I’m currently learning Flutter and Dart;
 - 🚀 I’m pursuing a Bachelor's degree in Information Technology;
 - 📫 Please contact via [Email](mantruong293@gmail.com), [Linkedin](https://www.linkedin.com/in/minhman293/), or [Facebook](https://www.facebook.com/minhman293) to reach me.
